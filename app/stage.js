@@ -241,7 +241,7 @@
   function handoverCancel() { if (!HO.open) return; HO.open = false; HO.go = null; gsap.to('#hand', {autoAlpha: 0, duration: .3, onComplete: () => { $('hand').hidden = true; gsap.set('#hand', {autoAlpha: 1}); }}); }
 
   /* ---------- curtain call after the last page: thank you, the team, a QR code to the prototype ---------- */
-  const SITE = 'https://jason-d-e.github.io/rtpl-fit1055/';
+  const SITE = 'https://zizi821.github.io/rtpl-fit1055/';
   function curtain() {
     ST.phase = 'curtain';
     let qr = '';

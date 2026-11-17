@@ -2,7 +2,7 @@
 
 A live teaching prototype for FIT1055 Assignment 2b by T1 Mixue Bingcheng. RTPL is a protection layer around an AI delivery dispatch system: it checks a deadline before the rider and the customer see it, checks the evidence before lateness can count against a rider, and lets an authorised person correct a disputed decision.
 
-**Live demo:** <https://jason-d-e.github.io/rtpl-fit1055/>
+**Live demo:** <https://zizi821.github.io/rtpl-fit1055/>
 
 ## What you see
 
